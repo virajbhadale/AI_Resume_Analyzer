@@ -1,0 +1,7 @@
+{
+  "name": "AI Resume Analyser V2",
+  "description": "Layout-aware, context-aware hybrid AI resume intelligence system for Data Science and Technical Roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

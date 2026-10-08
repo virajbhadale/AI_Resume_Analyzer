@@ -1,0 +1,40 @@
+MARCUS VANCE
+marcus.vance@genai-labs.io | +1 415 889 0123 | Seattle, WA
+github.com/marcusvance-ai | linkedin.com/in/marcus-vance-ai
+
+PROFESSIONAL SUMMARY
+Generative AI Engineer with extensive experience in Retrieval-Augmented Generation (RAG) pipelines, LangChain, agentic multi-step reasoning, vector databases, and fine-tuning open-source LLMs.
+
+CORE COMPETENCIES
+Languages: Python, SQL, TypeScript
+GenAI & LLMs: LLMs, RAG, LangChain, LangGraph, LlamaIndex, Transformers, Hugging Face, Prompt Engineering, Vector Databases
+Vector Stores & Tools: Pinecone, ChromaDB, Qdrant, Weaviate, Docker, FastAPI, Git
+
+WORK EXPERIENCE
+Senior Generative AI Engineer
+CognitiveCore AI
+Feb 2024 – Present
+• Architected enterprise RAG system querying 2M+ compliance documents using LangChain, Pinecone, and Gemini API.
+• Improved retrieval precision by 32% implementing hybrid dense-sparse search and cross-encoder reranking.
+• Implemented agentic workflow with LangGraph for multi-hop legal question answering.
+
+AI Research Engineer
+Synthetix Technologies
+Jun 2022 – Jan 2024
+• Fine-tuned Llama-2 and Mistral 7B models using LoRA and PEFT for domain-specific medical text summarization.
+• Reduced inference latency by 45% through vLLM quantization and KV-cache optimizations.
+• Deployed high-throughput FastAPI inference endpoints inside Docker containers.
+
+EDUCATION
+Master of Science in Artificial Intelligence
+Carnegie Mellon University
+2020 – 2022
+
+Bachelor of Science in Computer Science
+University of Washington
+2016 – 2020
+
+PROJECTS
+AgentRAG: Autonomous Multi-Document Research Assistant
+• LangGraph-powered autonomous agent performing web search and vector document retrieval with cited sources.
+• Demo & Code: https://github.com/marcusvance-ai/agentrag

@@ -1,0 +1,66 @@
+John Doe
+Senior Data Scientist | AI Engineer | Machine Learning Specialist
+
+Contact
+Pune, India
+john.doe@gmail.com | +91-9876543210
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Portfolio: johndoe.dev
+
+Professional Summary
+Results-oriented Data Scientist and AI Engineer with 5+ years of experience in Machine Learning, Deep Learning, NLP, LLMs, Data Analytics, Cloud Computing, LangChain, LangGraph, and RAG systems.
+
+Skills
+Programming: Python, Java, C++, SQL, R
+Data Analysis: Pandas, NumPy, Data Cleaning, Feature Engineering
+Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+Machine Learning: Scikit-learn, XGBoost, Random Forest, SVM, KNN, Logistic Regression
+Deep Learning: TensorFlow, PyTorch, CNN, RNN, LSTM, Transformers
+Generative AI: LangChain, LangGraph, GPT, Gemini, Llama, DeepSeek, RAG, Prompt Engineering
+Databases: MySQL, PostgreSQL, MongoDB, Neo4j, ChromaDB
+Cloud: AWS, Azure, Google Cloud, Docker, Kubernetes, Git
+
+Experience
+Senior AI Engineer – TechVision AI Pvt. Ltd. (Jan 2024–Present)
+Built enterprise GenAI and RAG solutions; fine-tuned LLMs; led AI team.
+
+Data Scientist – Analytics Hub Solutions (Jun 2022–Dec 2023)
+Developed predictive models and Power BI dashboards.
+
+Machine Learning Intern – InnovateAI Labs (Jan 2022–May 2022)
+Built CNN models and performed healthcare data analysis.
+
+Education
+MSc Data Science & AI, IIT (2022–2024), CGPA 9.12/10
+B.Tech Computer Science, Pune University (2018–2022), CGPA 8.85/10
+Class XII, ABC Junior College (2020), 88.4%
+Class X, XYZ Public School (2018), 92.3%
+
+Projects
+AI Resume Analyzer; Crop Disease Detection; Smart Travel Planner; Email Generator using LLM.
+
+Certifications
+AWS ML Specialty (2024); Microsoft Azure AI Engineer Associate; Google Data Analytics; IBM Data Science; TensorFlow Developer.
+
+Achievements
+Winner – National AI Hackathon 2024; University Rank 1; Best Employee 2024; Kaggle Expert.
+
+Awards
+Best AI Innovation Award; Employee Excellence Award; Best Project Award; Smart India Hackathon Finalist.
+
+Publications
+Explainable AI Techniques for Medical Diagnosis (2024); Deep Learning Based Crop Disease Detection (2023); Retrieval-Augmented Generation for Enterprise Search (2024).
+
+Languages
+English, Hindi, Marathi, German (Basic)
+
+Interests
+Artificial Intelligence, Open Source, Chess, Trekking, Photography
+
+Volunteer Experience
+AI Mentor, Google Developer Student Clubs (2023–Present).
+
+References
+Dr. Rajesh Sharma, IIT (rajesh.sharma@iit.edu)
+Priya Mehta, TechVision AI (priya.mehta@techvision.com)

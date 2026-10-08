@@ -1,0 +1,80 @@
+﻿# AI Resume Analyzer - Git Ignore
+
+# Node.js / Frontend Dependencies
+node_modules/
+
+# Build / Distribution Files
+dist/
+build/
+coverage/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments
+venv/
+.venv/
+
+# Python Cache / Test Cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs / Temporary Files
+*.log
+*.tmp
+
+# Generated Analysis Data
+data/outputs/
+data/benchmarks/
+
+# Real/sample resume PDFs - keep local
+data/samples/*.pdf
+
+# Generated Project Bundles
+AI_PROJECT_BUNDLES/
+AI_PROJECT_BUNDLES.zip
+project_bundle.txt
+
+# Reports & Development Notebooks
+Reports/
+notebooks/
+
+# Debug / Validation Artifacts
+debug_*.py
+diagnose_samples.py
+validate_samples.py
+selected_real_validation.txt
+real_validation.txt
+jillani_section_forensics.txt
+
+# Backup Files
+*.bak
+*.backup
+
+# IDE / Editor Files
+.idea/
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Source backup files
+*_backup.py
+Your existing:
+
+*.bak
+*.backup
+can stay.
+
+The relevant section should therefore be:
+
+# Backup Files
+*.bak
+*.backup
+*_backup.py

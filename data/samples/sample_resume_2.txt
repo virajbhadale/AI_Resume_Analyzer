@@ -1,0 +1,40 @@
+PRIYA SHARMA
+priya.sharma@techpulse.org | +91 98765 43210 | Bangalore, India
+linkedin.com/in/priyasharma-mlops | github.com/priyasharma-ops
+
+PROFESSIONAL SUMMARY
+MLOps Engineer specializing in Kubernetes container orchestration, automated CI/CD pipelines for deep learning models, drift monitoring, and scalable model serving infrastructure.
+
+TECHNICAL SKILLS
+MLOps & DevOps: Docker, Kubernetes, MLflow, CI/CD, Git, GitHub Actions, Terraform, Prometheus, Grafana, Linux
+Data & ML: Python, PyTorch, TensorFlow, Scikit-Learn, FastAPI, SQL, Model Monitoring
+Cloud: AWS, SageMaker, GCP Vertex AI
+
+PROFESSIONAL EXPERIENCE
+Lead MLOps Engineer
+CloudScale Systems
+Mar 2023 – Present
+• Orchestrated model deployment pipelines on Kubernetes clusters serving 10M+ predictions daily.
+• Integrated Prometheus and Grafana for automated data drift and model performance monitoring.
+• Built zero-downtime canary deployment workflows using GitHub Actions and ArgoCD.
+
+Machine Learning Infrastructure Engineer
+DataVerve Labs
+Aug 2021 – Feb 2023
+• Containerized 20+ computer vision and NLP models using Docker and Triton Inference Server.
+• Reduced model deployment cycle time from 2 weeks to 4 hours with automated CI/CD.
+• Managed model registry and experiment tracking via self-hosted MLflow.
+
+EDUCATION
+Bachelor of Technology in Computer Engineering
+Indian Institute of Technology, Bombay
+2017 – 2021 | CGPA: 9.1/10
+
+PROJECTS
+AutoDrift: Automated Feature Drift Detector
+• Open-source Python library for real-time drift detection using Kolmogorov-Smirnov statistical tests.
+• Repository: https://github.com/priyasharma-ops/autodrift
+
+CERTIFICATIONS
+Certified Kubernetes Administrator (CKA)
+Linux Foundation | 2023

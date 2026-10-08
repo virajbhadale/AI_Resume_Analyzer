@@ -1,0 +1,221 @@
+# ============================================================
+# UNIVERSAL RESUME SECTION REGISTRY
+# ============================================================
+
+summary:
+  canonical: "summary"
+  label: "Professional Summary"
+  patterns:
+    - "summary"
+    - "professional summary"
+    - "profile"
+    - "professional profile"
+    - "career summary"
+    - "executive summary"
+    - "objective"
+    - "career objective"
+    - "about me"
+    - "about"
+
+experience:
+  canonical: "experience"
+  label: "Work Experience"
+  patterns:
+    - "experience"
+    - "work experience"
+    - "professional experience"
+    - "employment history"
+    - "work history"
+    - "career history"
+    - "relevant experience"
+    - "industry experience"
+    - "internships"
+    - "internship experience"
+    - "professional history"
+
+education:
+  canonical: "education"
+  label: "Education"
+  patterns:
+    - "education"
+    - "educational background"
+    - "academic background"
+    - "academic qualifications"
+    - "academic history"
+    - "degrees"
+    - "academics"
+    - "studies"
+    - "qualifications"
+
+skills:
+  canonical: "skills"
+  label: "Skills & Competencies"
+  patterns:
+    - "skills"
+    - "technical skills"
+    - "technical competencies"
+    - "core competencies"
+    - "competencies"
+    - "technical proficiencies"
+    - "technical expertise"
+    - "technologies"
+    - "tools and technologies"
+    - "tools & technologies"
+    - "skills & expertise"
+    - "technical knowledge"
+    - "programming languages"
+    - "software skills"
+    - "computer skills"
+    - "areas of expertise"
+
+projects:
+  canonical: "projects"
+  label: "Projects"
+  patterns:
+    - "projects"
+    - "technical projects"
+    - "academic projects"
+    - "personal projects"
+    - "key projects"
+    - "major projects"
+    - "notable projects"
+    - "portfolio projects"
+    - "selected projects"
+    - "project experience"
+
+certifications:
+  canonical: "certifications"
+  label: "Certifications"
+  patterns:
+    - "certifications"
+    - "certificates"
+    - "professional certifications"
+    - "licenses & certifications"
+    - "licenses and certifications"
+    - "credentials"
+    - "professional credentials"
+
+publications:
+  canonical: "publications"
+  label: "Publications & Research"
+  patterns:
+    - "publications"
+    - "research publications"
+    - "research papers"
+    - "papers"
+    - "academic publications"
+    - "conference publications"
+    - "conference proceedings"
+    - "journal publications"
+    - "patents"
+
+writing:
+  canonical: "writing"
+  label: "Writing & Blogs"
+  patterns:
+    - "writing"
+    - "technical writing"
+    - "technical blogs"
+    - "technical blog"
+    - "blogs"
+    - "blog"
+    - "articles"
+    - "articles and blogs"
+    - "blog posts"
+    - "technical articles"    
+
+research:
+  canonical: "research"
+  label: "Research"
+  patterns:
+    - "research"
+    - "research experience"
+    - "research projects"
+    - "research interests"
+    - "academic research"
+
+awards:
+  canonical: "awards"
+  label: "Honors & Awards"
+  patterns:
+    - "awards"
+    - "honors"
+    - "honors and awards"
+    - "honors & awards"
+    - "academic honors"
+    - "scholarships"
+    - "recognition"
+    - "awards and honors"
+    - "awards & honors"
+
+achievements:
+  canonical: "achievements"
+  label: "Achievements"
+  patterns:
+    - "achievements"
+    - "key achievements"
+    - "notable achievements"
+    - "accomplishments"
+    - "key accomplishments"
+    - "career achievements"
+
+leadership:
+  canonical: "leadership"
+  label: "Leadership"
+  patterns:
+    - "leadership"
+    - "leadership experience"
+    - "leadership roles"
+    - "leadership activities"
+    - "student leadership"
+    - "leadership & activities"
+
+volunteer_experience:
+  canonical: "volunteer_experience"
+  label: "Volunteer Experience"
+  patterns:
+    - "volunteering"
+    - "volunteer experience"
+    - "volunteer work"
+    - "community service"
+    - "community involvement"
+    - "leadership & volunteering"
+
+extracurricular:
+  canonical: "extracurricular"
+  label: "Extracurricular Activities"
+  patterns:
+    - "extracurricular activities"
+    - "extracurricular"
+    - "activities"
+    - "student activities"
+    - "campus activities"
+
+languages:
+  canonical: "languages"
+  label: "Languages"
+  patterns:
+    - "languages"
+    - "language skills"
+    - "language proficiencies"
+    - "languages known"
+
+interests:
+  canonical: "interests"
+  label: "Interests & Hobbies"
+  patterns:
+    - "interests"
+    - "hobbies"
+    - "interests & hobbies"
+    - "interests and hobbies"
+    - "areas of interest"
+    - "personal interests"
+
+references:
+  canonical: "references"
+  label: "References"
+  patterns:
+    - "references"
+    - "professional references"
+    - "references available upon request"
+    - "referees"

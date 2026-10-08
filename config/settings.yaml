@@ -1,0 +1,38 @@
+# AI Resume Analyser V2 Pipeline Settings and Thresholds
+pipeline:
+  version: "2.0.0"
+  system_name: "AI Resume Analyser V2"
+
+layout:
+  column_split_ratio: 0.52          # Bimodal X divider threshold
+  min_gutter_width: 15.0            # Minimum point distance between columns
+  line_y_tolerance: 3.5             # Point tolerance for same-line text grouping
+  max_header_footer_margin: 40.0    # Top and bottom margin boundaries
+
+cleaning:
+  min_text_len: 2
+  strip_bullet_chars: ["•", "▪", "▫", "–", "-", "—", "*", "►", "✓", "o"]
+  drop_page_numbers: true
+
+section_detection:
+  similarity_threshold: 0.82       # RapidFuzz match cutoff
+  max_heading_words: 6
+  boost_uppercase: 0.15
+  boost_bold: 0.20
+
+experience:
+  max_gap_lines_for_episode: 4     # Max lines between role/org/date and bullets
+  require_date_for_episode: false   # Allow fresher/student projects without explicit end date
+  anti_merge_strictness: "high"
+
+ats:
+  weights:
+    section_completeness: 0.30
+    skill_coverage: 0.40
+    experience_clarity: 0.20
+    formatting_risk: 0.10
+  required_core_sections:
+    - "experience"
+    - "education"
+    - "skills"
+    - "contact"

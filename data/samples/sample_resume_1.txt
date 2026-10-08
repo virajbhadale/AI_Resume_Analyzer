@@ -1,0 +1,51 @@
+ALEXANDER CHEN
+alex.chen@email.com | +1 (555) 234-5678 | San Francisco, CA
+linkedin.com/in/alexchen-ds | github.com/alexchen-ml
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 5+ years of experience building predictive machine learning pipelines, production recommendation systems, and large-scale statistical models.
+
+SKILLS
+Programming: Python, SQL, R, Bash
+Data Science & ML: Pandas, NumPy, Scikit-Learn, PyTorch, XGBoost, Statistics, Feature Engineering, A/B Testing
+Tools & Cloud: Docker, Git, PostgreSQL, Snowflake, AWS, Tableau, FastAPI
+
+WORK EXPERIENCE
+Senior Data Scientist
+Nexus Analytics Inc.
+Jan 2023 – Present
+• Designed and deployed customer churn predictive model in Python and Scikit-Learn, reducing churn by 18%.
+• Engineered feature store pipelines processing 50M+ daily events using PostgreSQL and SQL.
+• Collaborated with product teams to run rigorous A/B testing frameworks across 1.2M active users.
+
+Machine Learning Engineer
+Apex AI Solutions
+Jun 2021 – Dec 2022
+• Built real-time inference microservice using FastAPI and Docker, handling 1,500 requests per second.
+• Trained gradient boosted tree models (XGBoost) for credit risk assessment, improving AUC by 0.12.
+• Automated model evaluation and hyperparameter tuning pipelines.
+
+Data Analyst Intern
+ComplyHappy Pvt Ltd.
+Jan 2020 – May 2021
+• Developed automated dashboards in Tableau and Python, reducing manual weekly reporting time by 15 hours.
+• Formulated exploratory data analysis (EDA) scripts using Pandas and NumPy for operational metrics.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+2019 – 2021
+GPA: 3.9/4.0
+
+Bachelor of Science in Statistics
+University of California, Berkeley
+2015 – 2019
+
+PROJECTS
+DeepRec: Deep Learning Recommendation Engine
+• Implemented collaborative filtering and neural matrix factorization using PyTorch and Python.
+• Published open-source benchmark with 350+ GitHub stars: https://github.com/alexchen-ml/deeprec
+
+CERTIFICATIONS
+AWS Certified Machine Learning - Specialty
+Amazon Web Services | 2022

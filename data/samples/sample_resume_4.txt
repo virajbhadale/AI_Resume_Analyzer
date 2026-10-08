@@ -1,0 +1,60 @@
+JOHN DOE
+john.doe@gmail.com | +91-9876543210 | Pune, India
+linkedin.com/in/johndoe | github.com/johndoe | johndoe.dev
+
+PROFESSIONAL SUMMARY
+Results-oriented Data Scientist and AI Engineer with 5+ years of experience in Machine Learning, Deep Learning, NLP, LLMs, Data Analytics, Cloud Computing, LangChain, LangGraph, and RAG systems.
+
+TECHNICAL SKILLS
+Programming: Python, Java, C++, SQL, R
+Data Analysis: Pandas, NumPy, Data Cleaning, Feature Engineering
+Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+Machine Learning: Scikit-Learn, XGBoost, Random Forest, SVM, KNN, Logistic Regression
+Deep Learning: TensorFlow, PyTorch, CNN, RNN, LSTM, Transformers
+Generative AI: LangChain, LangGraph, GPT, Gemini, Llama, DeepSeek, RAG, Prompt Engineering
+Databases: MySQL, PostgreSQL, MongoDB, Neo4j, ChromaDB
+Cloud: AWS, Azure, Google Cloud, Docker, Kubernetes, Git
+
+WORK EXPERIENCE
+Senior AI Engineer
+TechVision AI Pvt. Ltd.
+Jan 2024 – Present
+• Built enterprise GenAI and RAG solutions; fine-tuned LLMs; led AI team.
+• Deployed high-throughput vector search pipelines across 5M+ knowledge documents.
+• Orchestrated multi-agent autonomous workflows using LangGraph and FastAPI.
+
+Data Scientist
+Analytics Hub Solutions
+Jun 2022 – Dec 2023
+• Developed predictive models and Power BI dashboards reducing operational costs by 22%.
+• Engineered feature pipelines using Scikit-Learn and PostgreSQL.
+• Formulated customer lifetime value and churn models for retail clients.
+
+Machine Learning Intern
+InnovateAI Labs
+Jan 2022 – May 2022
+• Built CNN models and performed healthcare data analysis.
+• Optimized convolutional neural network architectures for early tumor detection.
+
+EDUCATION
+MSc Data Science & AI, IIT (2022–2024), CGPA 9.12/10
+B.Tech Computer Science, Pune University (2018–2022), CGPA 8.85/10
+Class XII, ABC Junior College (2020), 88.4%
+Class X, XYZ Public School (2018), 92.3%
+
+PROJECTS
+AI Resume Analyzer: Layout-aware multi-stage parsing engine with ATS scoring and anti-merge episode graph.
+Crop Disease Detection: Mobile-optimized deep learning model achieving 98.4% accuracy on plant leaves.
+Smart Travel Planner: Autonomous LLM travel agent utilizing LangChain and real-time APIs.
+
+CERTIFICATIONS
+AWS Certified Machine Learning - Specialty (2024)
+Microsoft Certified: Azure AI Engineer Associate
+Google Professional Data Analytics Certificate
+TensorFlow Developer Certificate
+
+ACHIEVEMENTS
+• Winner – National AI Hackathon 2024
+• University Rank 1 (Academic Excellence)
+• Best Employee 2024 at Analytics Hub
+• Kaggle Expert in Tabular and NLP Competitions
